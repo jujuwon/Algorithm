@@ -1,6 +1,6 @@
 # 📌 Solve Algorithms
 
-
+1일 1문제 이상 풀기 💡
 
 ## Baekjoon
 site https://www.acmicpc.net/
