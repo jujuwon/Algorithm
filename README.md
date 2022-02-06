@@ -6,6 +6,7 @@
 site https://www.acmicpc.net/
 
 ### ✔ Data Structures
+[1021](https://github.com/jujuwon/coding-test/blob/main/baekjoon/BJ1021.py)
 [1158](https://github.com/jujuwon/coding-test/blob/main/baekjoon/BJ1158.py)
 [1874](https://github.com/jujuwon/coding-test/blob/main/baekjoon/BJ1874.py)
 [1935](https://github.com/jujuwon/coding-test/blob/main/baekjoon/BJ1935.py)
