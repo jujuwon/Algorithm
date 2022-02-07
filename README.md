@@ -22,3 +22,6 @@ site https://www.acmicpc.net/
 [10866](https://github.com/jujuwon/coding-test/blob/main/baekjoon/BJ10866.py)
 [11279](https://github.com/jujuwon/coding-test/blob/main/baekjoon/BJ11279.py)
 [18258](https://github.com/jujuwon/coding-test/blob/main/baekjoon/BJ18258.py)
+
+### ✔ Sort
+[2751](https://github.com/jujuwon/coding-test/blob/main/baekjoon/BJ2751.py)
