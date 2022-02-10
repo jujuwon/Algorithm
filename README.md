@@ -30,6 +30,7 @@ site https://www.acmicpc.net/
 [1946](https://github.com/jujuwon/coding-test/blob/main/baekjoon/BJ1946.py)
 [2470](https://github.com/jujuwon/coding-test/blob/main/baekjoon/BJ2470.py)
 [2751](https://github.com/jujuwon/coding-test/blob/main/baekjoon/BJ2751.py)
+[10989](https://github.com/jujuwon/coding-test/blob/main/baekjoon/BJ10989.py)
 [11399](https://github.com/jujuwon/coding-test/blob/main/baekjoon/BJ11399.py)
 [11652](https://github.com/jujuwon/coding-test/blob/main/baekjoon/BJ11652.py)
 [18870](https://github.com/jujuwon/coding-test/blob/main/baekjoon/BJ18870.py)
