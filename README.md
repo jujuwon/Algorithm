@@ -27,6 +27,7 @@ site https://www.acmicpc.net/
 [1026](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1026.py)
 [1427](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1427.py)
 [1449](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1449.py)
+[1764](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1764.py)
 [1931](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1931.py)
 [1946](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1946.py)
 [2309](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ2309.py)
