@@ -43,3 +43,6 @@ site https://www.acmicpc.net/
 [11651](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ11651.py)
 [11652](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ11652.py)
 [18870](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ18870.py)
+
+### ✔ Dynamic Programming
+[10870](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ10870.py)
