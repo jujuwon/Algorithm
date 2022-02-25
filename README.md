@@ -46,6 +46,7 @@ site https://www.acmicpc.net/
 
 ### ✔ Greedy
 [14916](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ14916.py)
+[13305](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ13305.py)
 
 ### ✔ Dynamic Programming
 [1010](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1010.py)
