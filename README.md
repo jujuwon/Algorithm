@@ -47,8 +47,13 @@ site https://www.acmicpc.net/
 ### ✔ Dynamic Programming
 [1010](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1010.py)
 [1463](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1463.py)
+[2407](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ2407.py)
+[2579](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ2579.py)
 [2839](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ2839.py)
 [9095](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ9095.py)
 [9655](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ9655.py)
 [10870](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ10870.py)
+[11053](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ11053.py)
+[11726](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ11726.py)
+[11727](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ11727.py)
 [16395](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ16395.py)
