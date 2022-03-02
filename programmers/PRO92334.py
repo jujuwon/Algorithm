@@ -1,19 +1,26 @@
 # programmers 신고 결과 받기 (Lv1 2022 KAKAO BLIND RECRUITMENT)
-def solution(id_list, reports, k):
+from collections import defaultdict
+
+def solution(id_list, report, k):
     answer = [0] * len(id_list)
+    report = set(report)
+
+    who_report = defaultdict(list)
+    num_of_reported = defaultdict(int)
     stops = []
-    dic = {id: [] for id in id_list}
-    
-    for temp in set(reports):
-        report = temp.split()
-        stops.append(report[1])
-        dic[report[1]].append(report[0])
-    
-    stops = set([i for i in stops if k <= stops.count(i)])
-    print(f'stops : {stops}')
-    print(dic)
+
+    for r in report:
+        do_report, be_reported = r.split()
+
+        num_of_reported[be_reported] += 1
+        who_report[do_report].append(be_reported)
+
+        if k == num_of_reported[be_reported]:
+            stops.append(be_reported)
+
     for stop in stops:
-        for val in dic[stop]:
-            answer[id_list.index(val)] += 1
-            
+        for i in range(len(id_list)):
+            if stop in who_report[id_list[i]]:
+                answer[i] += 1
+
     return answer
