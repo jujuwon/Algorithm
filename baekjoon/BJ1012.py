@@ -5,19 +5,6 @@ from collections import deque
 def input():
     return sys.stdin.readline().rstrip()
 
-'''
-    for i in 전체 탐색
-        if i == 1:
-            queue append i
-            매트릭스 i = 0
-            while queue:
-                for j 4:
-                    상하좌우 비교
-                    if 1 만남
-                        queue.append
-                        매트릭스 j 0
-            cnt += 1
-'''
 dx = [1, -1, 0, 0]
 dy = [0, 0, 1, -1]
 T = int(input())
