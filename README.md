@@ -45,12 +45,15 @@ site https://www.acmicpc.net/
 [18870](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ18870.py)
 
 ### ✔ Greedy
+[11047](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ11047.py)
 [13305](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ13305.py)
 [14916](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ14916.py)
 
 ### ✔ Dynamic Programming
 [1010](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1010.py)
 [1463](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1463.py)
+[2293](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ2293.py)
+[2294](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ2294.py)
 [2407](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ2407.py)
 [2579](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ2579.py)
 [2839](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ2839.py)
