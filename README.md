@@ -64,3 +64,7 @@ site https://www.acmicpc.net/
 [11726](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ11726.py)
 [11727](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ11727.py)
 [16395](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ16395.py)
+
+### ✔ BFS/DFS
+[1260](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1260.py)
+[2606](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ2606.py)
