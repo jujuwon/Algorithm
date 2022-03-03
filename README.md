@@ -11,6 +11,7 @@ https://www.acmicpc.net/
 [2178](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ2178.py)
 [2606](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ2606.py)
 [2667](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ2667.py)
+[7576](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ7576.py)
 
 ### ✔ Data Structures
 [1021](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1021.py)
