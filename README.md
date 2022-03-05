@@ -8,6 +8,7 @@ https://www.acmicpc.net/
 ### ✔ BFS/DFS
 [1012](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1012.py)
 [1260](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1260.py)
+[1325](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1325.py)
 [2178](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ2178.py)
 [2606](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ2606.py)
 [2667](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ2667.py)
