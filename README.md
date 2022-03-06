@@ -13,6 +13,7 @@ https://www.acmicpc.net/
 [2606](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ2606.py)
 [2667](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ2667.py)
 [7576](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ7576.py)
+[11724](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ11724.py)
 
 ### ✔ Brute Force
 [1436](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1436.py)
