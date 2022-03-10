@@ -61,6 +61,13 @@ https://www.acmicpc.net/
 [13305](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ13305.py)
 [14916](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ14916.py)
 
+### ✔ Math
+[1747](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1747.py)
+[2609](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ2609.py)
+
+### ✔ Shortest Path
+[1753](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1753.py)
+
 ### ✔ Sort
 [1026](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1026.py)
 [1427](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1427.py)
