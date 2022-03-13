@@ -21,6 +21,9 @@ https://www.acmicpc.net/
 [1436](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1436.py)
 [1543](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1543.py)
 
+### ✔ Binary Search
+[2805](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ2805.py)
+
 ### ✔ Data Structures
 [1021](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1021.py)
 [1158](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1158.py)
