@@ -74,6 +74,7 @@ https://www.acmicpc.net/
 
 ### ✔ Shortest Path
 [1753](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1753.py)
+[18352](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ18352.py)
 
 ### ✔ Sort
 [1026](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1026.py)
