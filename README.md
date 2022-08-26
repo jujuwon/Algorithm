@@ -38,7 +38,7 @@ https://www.acmicpc.net/
 [4949](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ4949.py)
 [9012](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ9012.py)
 [10799](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ10799.py)
-[10828](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ10828.py)
+[10828](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ10828)
 [10845](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ10845.py)
 [10866](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ10866.py)
 [11279](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ11279.py)
@@ -54,7 +54,7 @@ https://www.acmicpc.net/
 [2839](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ2839.py)
 [9095](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ9095.py)
 [9655](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ9655.py)
-[10870](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ10870.py)
+[10870](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ10870)
 [11053](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ11053.py)
 [11726](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ11726.py)
 [11727](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ11727.py)
@@ -65,7 +65,7 @@ https://www.acmicpc.net/
 [11047](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ11047.py)
 [11508](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ11508.py)
 [13305](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ13305.py)
-[14916](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ14916.py)
+[14916](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ14916)
 [20115](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ20115.py)
 
 ### ✔ Math
