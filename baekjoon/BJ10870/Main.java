@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
 public class Main {
-	public static void main(String[] args) {
-		int[] fibo = new int[21];
+    public static void main(String[] args) {
+        int[] fibo = new int[21];
 		fibo[0] = 0;
 		fibo[1] = 1;
 
@@ -13,5 +13,6 @@ public class Main {
 		}
 
 		System.out.println(fibo[n]);
-	}
+        sc.close();
+    }
 }

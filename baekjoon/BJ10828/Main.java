@@ -2,9 +2,8 @@ import java.util.Scanner;
 import java.util.Stack;
 
 public class Main {
-	public static void main(String[] args) {
-
-		Stack<Integer> stack = new Stack<>();
+    public static void main(String[] args) {
+        Stack<Integer> stack = new Stack<>();
 
 		Scanner scanner = new Scanner(System.in);
 		int N = scanner.nextInt(); // 명령의 수
@@ -39,5 +38,6 @@ public class Main {
 		}
 
 		System.out.println(sb);
-	}
+        scanner.close();
+    }
 }
