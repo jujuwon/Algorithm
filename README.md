@@ -2,6 +2,8 @@
 
 1일 1문제 이상 풀기 💡
 
+<br>
+
 # 📌 Baekjoon
 https://www.acmicpc.net/
 
@@ -103,6 +105,7 @@ https://www.acmicpc.net/
 ### ✔ Tree
 [1991](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1991)
 
+<br>
 
 # 📌 Programmers
 https://programmers.co.kr/
@@ -110,8 +113,11 @@ https://programmers.co.kr/
 
 file name : PRO[number].py
 
-test link : https://programmers.co.kr/learn/courses/30/lessons/[number]
+test link : https://school.programmers.co.kr/learn/courses/30/lessons/[number]
+
+<br>
 
 **💡KAKAO**
 - [신고 결과 받기](https://github.com/jujuwon/algorithm/blob/main/programmers/KAKAO%20%EA%B8%B0%EC%B6%9C/PRO92334)
 - [주차 요금 계산](https://github.com/jujuwon/algorithm/blob/main/programmers/KAKAO%20%EA%B8%B0%EC%B6%9C/PRO92341)
+- [k진수에서 소수 개수 구하기](https://github.com/jujuwon/algorithm/blob/main/programmers/KAKAO%20%EA%B8%B0%EC%B6%9C/PRO92335)
