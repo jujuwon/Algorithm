@@ -7,6 +7,9 @@
 # 📌 Baekjoon
 https://www.acmicpc.net/
 
+### ✔ Basic
+[1000](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1000)
+
 ### ✔ BFS/DFS
 [1012](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1012)
 [1260](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1260)
