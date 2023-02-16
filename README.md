@@ -11,6 +11,7 @@ https://www.acmicpc.net/
 [1000](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1000)
 [2558](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ2558)
 [10950](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ10950)
+[10951](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ10951)
 
 ### ✔ BFS/DFS
 [1012](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1012)
