@@ -126,6 +126,7 @@ test link : https://school.programmers.co.kr/learn/courses/30/lessons/[number]
 **💡KAKAO**
 - [2019 KAKAO BLIND RECRUITMENT](https://github.com/jujuwon/algorithm/blob/main/programmers/2019_KAKAO_BLIND_RECRUITMENT)
 - [2020 KAKAO BLIND RECRUITMENT](https://github.com/jujuwon/algorithm/blob/main/programmers/2020_KAKAO_BLIND_RECRUITMENT)
+- [2021 KAKAO INTERNSHIP](https://github.com/jujuwon/algorithm/blob/main/programmers/2021_KAKAO_INTERNSHIP)
 - [2022 KAKAO TECH INTERNSHIP](https://github.com/jujuwon/algorithm/blob/main/programmers/2022_KAKAO_TECH_INTERNSHIP)
   
 **etc**
