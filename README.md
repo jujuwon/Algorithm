@@ -81,7 +81,7 @@ https://www.acmicpc.net/
 ### ✔ Implementation
 [1138](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1138)
 [2377](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ2377)
-[6968](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ6968)
+[6986](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ6986)
 
 ### ✔ Math
 [1747](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1747)
