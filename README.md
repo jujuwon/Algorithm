@@ -30,6 +30,7 @@ https://www.acmicpc.net/
 [16948](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ16948)
 
 ### ✔ Brute Force
+[1254](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1254)
 [1436](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1436)
 [1543](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1543)
 
@@ -73,6 +74,7 @@ https://www.acmicpc.net/
 
 ### ✔ Greedy
 [1202](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1202)
+[1213](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1213)
 [1343](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1343)
 [1541](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1541)
 [1758](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1758)
