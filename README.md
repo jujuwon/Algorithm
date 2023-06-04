@@ -46,6 +46,7 @@ https://www.acmicpc.net/
 [1935](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1935)
 [1966](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1966)
 [2146](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ2146)
+[2493](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ2493)
 [3986](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ3986)
 [4949](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ4949)
 [9012](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ9012)
