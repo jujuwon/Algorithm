@@ -7,7 +7,7 @@
 # 📌 Baekjoon
 https://www.acmicpc.net/
 
-### ✔ Basic
+### ✔ Backtracking
 [10971](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ10971)
 
 ### ✔ Basic
