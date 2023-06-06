@@ -8,6 +8,9 @@
 https://www.acmicpc.net/
 
 ### ✔ Basic
+[10971](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ10971)
+
+### ✔ Basic
 [1000](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1000)
 [2558](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ2558)
 [10950](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ10950)
