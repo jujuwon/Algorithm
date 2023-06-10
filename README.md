@@ -22,6 +22,7 @@ https://www.acmicpc.net/
 [1325](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1325)
 [2178](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ2178)
 [2468](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ2468)
+[2573](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ2573)
 [2606](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ2606)
 [2667](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ2667)
 [4963](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ4963)
