@@ -113,6 +113,7 @@ https://www.acmicpc.net/
 ### ✔ Sort
 [1026](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1026)
 [1427](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1427)
+[1431](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1431)
 [1449](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1449)
 [1764](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1764)
 [1931](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1931)
