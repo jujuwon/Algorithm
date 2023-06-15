@@ -106,6 +106,9 @@ https://www.acmicpc.net/
 [1747](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1747)
 [2609](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ2609)
 
+### ✔ MST
+[16398](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ16398)
+
 ### ✔ Shortest Path
 [1753](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1753)
 [11403](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ11403)
