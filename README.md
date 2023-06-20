@@ -97,6 +97,7 @@ https://www.acmicpc.net/
 [20115](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ20115)
 
 ### ✔ Implementation
+[1013](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1013)
 [1138](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1138)
 [2108](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ2108)
 [2477](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ2477)
