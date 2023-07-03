@@ -106,6 +106,7 @@ https://www.acmicpc.net/
 [9519](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ9519)
 
 ### ✔ Math
+[1735](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1735)
 [1747](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ1747)
 [2609](https://github.com/jujuwon/algorithm/blob/main/baekjoon/BJ2609)
 
